@@ -1,1 +1,1 @@
-# Tanner-May
+# HaptiSight
